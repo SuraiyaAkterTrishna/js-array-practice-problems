@@ -10,3 +10,4 @@ console.log(typeof isIndependent);
 console.log(typeof student);
 console.log(typeof friends); //array should check by the method of Array.isArray(friends) 
 console.log(Array.isArray(friends));
+
